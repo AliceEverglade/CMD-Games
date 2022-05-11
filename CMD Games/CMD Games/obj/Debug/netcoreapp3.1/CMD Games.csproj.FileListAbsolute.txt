@@ -1,0 +1,11 @@
+D:\Sint Lucas Projects\CMD-Games\CMD Games\CMD Games\bin\Debug\netcoreapp3.1\CMD Games.exe
+D:\Sint Lucas Projects\CMD-Games\CMD Games\CMD Games\bin\Debug\netcoreapp3.1\CMD Games.deps.json
+D:\Sint Lucas Projects\CMD-Games\CMD Games\CMD Games\bin\Debug\netcoreapp3.1\CMD Games.runtimeconfig.json
+D:\Sint Lucas Projects\CMD-Games\CMD Games\CMD Games\bin\Debug\netcoreapp3.1\CMD Games.runtimeconfig.dev.json
+D:\Sint Lucas Projects\CMD-Games\CMD Games\CMD Games\bin\Debug\netcoreapp3.1\CMD Games.dll
+D:\Sint Lucas Projects\CMD-Games\CMD Games\CMD Games\bin\Debug\netcoreapp3.1\CMD Games.pdb
+D:\Sint Lucas Projects\CMD-Games\CMD Games\CMD Games\obj\Debug\netcoreapp3.1\CMD Games.csprojAssemblyReference.cache
+D:\Sint Lucas Projects\CMD-Games\CMD Games\CMD Games\obj\Debug\netcoreapp3.1\CMD Games.AssemblyInfoInputs.cache
+D:\Sint Lucas Projects\CMD-Games\CMD Games\CMD Games\obj\Debug\netcoreapp3.1\CMD Games.AssemblyInfo.cs
+D:\Sint Lucas Projects\CMD-Games\CMD Games\CMD Games\obj\Debug\netcoreapp3.1\CMD Games.dll
+D:\Sint Lucas Projects\CMD-Games\CMD Games\CMD Games\obj\Debug\netcoreapp3.1\CMD Games.pdb
